@@ -86,6 +86,5 @@ Bar charts for average transition times
 
 About the Developer
 Aditya Guha Roy
-MBA in Business Analytics – OP Jindal Global University
-IBM ALP 2025 Program Participant
+
 
