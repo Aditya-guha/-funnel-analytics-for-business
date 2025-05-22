@@ -1,6 +1,5 @@
 Customer Journey Analytics & Funnel Optimization is a data-driven decision support tool built with Streamlit, Python, and SQL, aimed at helping eCommerce and SaaS teams understand user behavior, detect bottlenecks in the funnel, and optimize for higher conversions.
 
-Developed as part of IBM ALP 2025 by Aditya Guha Roy (MBA BA 24023184).
 
 Key Features
 Upload CSVs of customer journey logs
